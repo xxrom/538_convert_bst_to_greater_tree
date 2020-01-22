@@ -1,0 +1,12 @@
+{
+  "name": "538_convert_bst_to_greater_tree",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "nodemon": "^2.0.2"
+  },
+  "scripts": {
+    "dev": "nodemon --exec 'python main.py' ./main.py"
+  }
+}
